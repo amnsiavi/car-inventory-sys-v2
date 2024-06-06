@@ -10,6 +10,7 @@ djangorestframework = "*"
 psycopg2 = "*"
 pillow = "*"
 qrcode = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
