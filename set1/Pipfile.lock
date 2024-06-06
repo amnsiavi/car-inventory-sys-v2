@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2f5f5cb581e540229996257229a9dbcb815dd82f02728c62c3322575c3c68141"
+            "sha256": "d6440d6ec38374ff4bbe615989cb9dfda7e4d61a432c8a3fd3e164f1f85ea0bc"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -40,6 +40,15 @@
             ],
             "index": "pypi",
             "version": "==2.0.2"
+        },
+        "django-cors-headers": {
+            "hashes": [
+                "sha256:0b1fd19297e37417fc9f835d39e45c8c642938ddba1acce0c1753d3edef04f36",
+                "sha256:0bf65ef45e606aff1994d35503e6b677c0b26cafff6506f8fd7187f3be840207"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==4.3.1"
         },
         "django-excel-response2": {
             "hashes": [

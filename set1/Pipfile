@@ -11,6 +11,7 @@ psycopg2 = "*"
 pillow = "*"
 qrcode = "*"
 python-dotenv = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
